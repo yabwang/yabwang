@@ -19,5 +19,4 @@ Welcome to my GitHub profile!
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yabwang&layout=compact)
 
 ---
-
 ![Snake](https://raw.githubusercontent.com/yabwang/yabwang/output/github-contribution-grid-snake.svg)
