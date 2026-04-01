@@ -14,9 +14,9 @@ Welcome to my GitHub profile!
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yabwang&show_icons=true&theme=default)
+<img src="https://github-readme-stats.vercel.app/api?username=yabwang&show_icons=true&hide_border=true&count_private=true" alt="Stats" height="150"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yabwang&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yabwang&layout=compact&hide_border=true" alt="Languages" height="150"/>
 
 ---
 ![Snake](https://raw.githubusercontent.com/yabwang/yabwang/output/github-contribution-grid-snake.svg)
